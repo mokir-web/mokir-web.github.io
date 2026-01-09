@@ -1,6 +1,6 @@
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html dir="ltr" lang="sv-SE">
+	<iframe width="650" height="700" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8GZ1mLhp_SRBrmkDm_XpgFgd--SCRxoIueTm3iOVzQr0QkGwMd4EvjvbLpZNJ8jQSi3ui_axqt5oa/pubhtml?gid=1236830032&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+	
 <div class="side-links blue ms-webpartzone-cell">
     <h2>Operation</h2>
 	<p>
