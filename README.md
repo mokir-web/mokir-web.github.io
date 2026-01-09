@@ -2,18 +2,8 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html dir="ltr" lang="sv-SE">
 <div class="side-links blue ms-webpartzone-cell">
-    <h2>Relaterade länkar</h2><ul  class='doc-wiz-list'><li><a href='https://outlook.office.com.mcas.ms/mail/' target='_blank'><img src='/_layouts/15/images/html16.png'> Epostlänk</a></li>
-<li><a href='https://ltd.heroma.se/prod/ltdpp01/WebclientSSO/NoSession/ActivityPlanning/NoSessionStaffing/IndexSelectedTeam?guid=0fe8a007-3e92-4b28-bbfd-bca2f900dbd8' target='_blank'><img src='/_layouts/15/images/html16.png'> Läkarschema</a></li></ul>
-</div>
-
-                
-	</div>
-
-                <div class="ms-webpart-zone ms-fullWidth">
-		<div id="MSOZoneCell_WebPartWPQ2" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
-			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
-				<div WebPartID="e63296dc-6282-442a-aff5-9dc057d62047" HasPers="false" id="WebPartWPQ2" width="100%" class="ms-WPBody noindex " allowDelete="false" style="" ><div class="ms-rtestate-field"><h1>Operation</h1>
-<p>
+    <h2>Operation</h2>
+	<p>
    <a href="https://tinyurl.com/opjour" target="_blank"> 
       <span class="ms-rteFontFace-5 ms-rteFontSize-2">OPJOURSLISTA</span></a><br class="ms-rteFontFace-5 ms-rteFontSize-2"/><a href="https://docs.google.com/spreadsheets/d/1C5DWS4ceB7gMlkHeQs7nCcJSeLHVNsLPsj36gH0WS3I/edit?usp=sharing" target="_blank"><span class="ms-rteFontFace-5 ms-rteFontSize-2">Operatörsöversikt</span></a><br/><a href="https://docs.google.com/spreadsheets/d/1FeuvXuKyy2yVRqhu4ztXdWUW1tY9Z1KQU0tw6We8fNU/edit?usp=sharing" target="_blank"><span class="ms-rteFontFace-5 ms-rteFontSize-2">Underlag operatörsöversikt</span></a><br class="ms-rteFontFace-5 ms-rteFontSize-2"/><a href="https://www.aicd.nu/" target="_blank"><span class="ms-rteFontFace-5 ms-rteFontSize-2">Kodsökning</span></a></p>
 <h1>Bedömningsverktyg</h1>
